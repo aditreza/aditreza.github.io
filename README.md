@@ -7,7 +7,10 @@ About this site :
 
 Web profile & portfolio.
 
-> **Used Tags & Syntaxes:**
+
+
+Used Tags & Syntaxes :
+-------------------
 
 > -  HTML
 >
