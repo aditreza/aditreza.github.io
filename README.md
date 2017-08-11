@@ -36,6 +36,8 @@ Used Tags & Syntaxes :
 >
 >   - position
 >
+>   - @media
+>
 >     ​
 
 #### About me :
