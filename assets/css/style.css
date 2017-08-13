@@ -137,7 +137,8 @@
 	padding:0;
 }
 p{
-	font-family: "Times New Roman", Times, serif;
+	font-family: "lato", Times, serif;
+	color:grey;
 }
 span.line{
 	width:5%;
